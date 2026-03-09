@@ -1,0 +1,9 @@
+OrderID,Region,Category,Product,Revenue,Month
+1,North,Electronics,Laptop,1200,Jan
+2,South,Furniture,Chair,300,Jan
+3,East,Electronics,Phone,800,Feb
+4,West,Furniture,Desk,450,Feb
+5,North,Electronics,Tablet,600,Mar
+6,South,Furniture,Sofa,900,Mar
+7,East,Electronics,Headphones,200,Apr
+8,West,Furniture,Table,700,Apr
